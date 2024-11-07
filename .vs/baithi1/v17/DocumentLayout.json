@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|c:\\users\\vuvan\\documents\\zalo received files\\baithi1\\baithi1\\views\\nguoi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|solutionrelative:baithi1\\views\\nguoi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|c:\\users\\vuvan\\documents\\zalo received files\\baithi1\\baithi1\\views\\nguoi\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|solutionrelative:baithi1\\views\\nguoi\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|c:\\users\\vuvan\\documents\\zalo received files\\baithi1\\baithi1\\views\\nguoi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|solutionrelative:baithi1\\views\\nguoi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|c:\\users\\vuvan\\documents\\zalo received files\\baithi1\\baithi1\\views\\nguoi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|solutionrelative:baithi1\\views\\nguoi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|c:\\users\\vuvan\\documents\\zalo received files\\baithi1\\baithi1\\controllers\\nguoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|solutionrelative:baithi1\\controllers\\nguoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|c:\\users\\vuvan\\documents\\zalo received files\\baithi1\\baithi1\\models\\nguoireposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|solutionrelative:baithi1\\models\\nguoireposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|c:\\users\\vuvan\\documents\\zalo received files\\baithi1\\baithi1\\models\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|solutionrelative:baithi1\\models\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|c:\\users\\vuvan\\documents\\zalo received files\\baithi1\\baithi1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|solutionrelative:baithi1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|c:\\users\\vuvan\\documents\\zalo received files\\baithi1\\baithi1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359598F5-32A0-42A6-BCB5-7FCA6E4F6FAB}|baithi1\\baithi1.csproj|solutionrelative:baithi1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Views\\Nguoi\\Create.cshtml",
+              "RelativeDocumentMoniker": "baithi1\\Views\\Nguoi\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Views\\Nguoi\\Create.cshtml",
+              "RelativeToolTip": "baithi1\\Views\\Nguoi\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T03:33:39.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "baithi1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "baithi1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:20:30.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Views\\Nguoi\\Index.cshtml",
+              "RelativeDocumentMoniker": "baithi1\\Views\\Nguoi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Views\\Nguoi\\Index.cshtml",
+              "RelativeToolTip": "baithi1\\Views\\Nguoi\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T03:20:15.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NguoiController.cs",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Controllers\\NguoiController.cs",
+              "RelativeDocumentMoniker": "baithi1\\Controllers\\NguoiController.cs",
+              "ToolTip": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Controllers\\NguoiController.cs",
+              "RelativeToolTip": "baithi1\\Controllers\\NguoiController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:19:15.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NguoiReposity.cs",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Models\\NguoiReposity.cs",
+              "RelativeDocumentMoniker": "baithi1\\Models\\NguoiReposity.cs",
+              "ToolTip": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Models\\NguoiReposity.cs",
+              "RelativeToolTip": "baithi1\\Models\\NguoiReposity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:05:50.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nguoi.cs",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Models\\Nguoi.cs",
+              "RelativeDocumentMoniker": "baithi1\\Models\\Nguoi.cs",
+              "ToolTip": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Models\\Nguoi.cs",
+              "RelativeToolTip": "baithi1\\Models\\Nguoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:04:23.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Views\\Nguoi\\Detail.cshtml",
+              "RelativeDocumentMoniker": "baithi1\\Views\\Nguoi\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Views\\Nguoi\\Detail.cshtml",
+              "RelativeToolTip": "baithi1\\Views\\Nguoi\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T04:14:07.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Views\\Nguoi\\Edit.cshtml",
+              "RelativeDocumentMoniker": "baithi1\\Views\\Nguoi\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Views\\Nguoi\\Edit.cshtml",
+              "RelativeToolTip": "baithi1\\Views\\Nguoi\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T03:51:50.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "baithi1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\vuvan\\Documents\\Zalo Received Files\\baithi1\\baithi1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "baithi1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:20:33.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

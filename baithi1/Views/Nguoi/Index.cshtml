@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Nguoi>
+<form method="post">
+    <input name="Tim" />
+    <button type="submit" asp-action="TimKiem">
+        Tim kiem
+    </button>
+</form>
+<table class="table">
+    <thead >
+    <th>Id</th>
+    <th>Name</th>
+    <th>Mo ta</th>
+    <th>Tuoi</th>
+    <th>Acsion</th>
+    </thead>
+    <tbody>
+        @foreach( var p in Model  )
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.Name</td>
+                <td>@p.Description</td>
+                <td>@p.tuoi</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@p.Id">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@p.Id">Delete</a>
+                    <a asp-action="Detail" asp-route-id="@p.Id">Detail</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
